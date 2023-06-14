@@ -67,5 +67,6 @@ gem "refile-mini_magick"
 gem 'kaminari','~> 1.2.1'
 gem 'bootstrap', '~> 4.5'
 gem 'jquery-rails'
+gem "net-http"
 gem 'font-awesome-sass', '~> 5.13'
 gem 'mysql2', '>= 0.4.4', '< 0.6.0' , group: :production
